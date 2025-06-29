@@ -6,3 +6,6 @@
     display: block !important;
     margin: 2rem auto !important;
 }
+.navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+}
